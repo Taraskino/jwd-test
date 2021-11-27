@@ -1,2 +1,2 @@
 # jwd-test
-To jest repozytorium testoweJWD
+To jest repozytorium* testowe **JWD**
